@@ -1,0 +1,14 @@
+{
+    "name": "flash/perfomphp",
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gabriel Mendes",
+            "email": "gabriel.26056@gmail.com"
+        }
+    ]
+}
